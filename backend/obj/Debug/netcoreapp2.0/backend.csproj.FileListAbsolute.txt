@@ -1,0 +1,11 @@
+/Volumes/Datos/radhull/Projects/mobile/backend/bin/Debug/netcoreapp2.0/backend.deps.json
+/Volumes/Datos/radhull/Projects/mobile/backend/bin/Debug/netcoreapp2.0/backend.runtimeconfig.json
+/Volumes/Datos/radhull/Projects/mobile/backend/bin/Debug/netcoreapp2.0/backend.runtimeconfig.dev.json
+/Volumes/Datos/radhull/Projects/mobile/backend/bin/Debug/netcoreapp2.0/backend.dll
+/Volumes/Datos/radhull/Projects/mobile/backend/bin/Debug/netcoreapp2.0/backend.pdb
+/Volumes/Datos/radhull/Projects/mobile/backend/obj/Debug/netcoreapp2.0/backend.csprojResolveAssemblyReference.cache
+/Volumes/Datos/radhull/Projects/mobile/backend/obj/Debug/netcoreapp2.0/backend.csproj.CoreCompileInputs.cache
+/Volumes/Datos/radhull/Projects/mobile/backend/obj/Debug/netcoreapp2.0/backend.AssemblyInfoInputs.cache
+/Volumes/Datos/radhull/Projects/mobile/backend/obj/Debug/netcoreapp2.0/backend.AssemblyInfo.cs
+/Volumes/Datos/radhull/Projects/mobile/backend/obj/Debug/netcoreapp2.0/backend.dll
+/Volumes/Datos/radhull/Projects/mobile/backend/obj/Debug/netcoreapp2.0/backend.pdb

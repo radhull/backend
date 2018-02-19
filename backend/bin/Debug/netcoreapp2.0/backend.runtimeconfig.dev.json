@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Volumes/Datos/radhull/.dotnet/store/|arch|/|tfm|",
+      "/Volumes/Datos/radhull/.nuget/packages",
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}
